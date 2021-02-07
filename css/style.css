@@ -3,6 +3,13 @@
   color: blue;
 }
 
-.bg-light {
-  background-color: green;
+body {
+  background-image: url("https://us.123rf.com/450wm/nikol85/nikol851811/nikol85181100043/113263496-light-green-matte-background-of-suede-fabric-closeup-velvet-texture-of-seamless-olive-woolen-felt-.jpg?ver=6");
+  background-size: 50%;
+}
+
+.container {
+  background-image: url("https://www.designbolts.com/wp-content/uploads/2013/02/Noise-Light-Grey-Tileable-Pattern-For-Website-Background.jpg");
+  background-size: 50%;
+  margin-top: 56px;
 }
