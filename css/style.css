@@ -4,7 +4,7 @@
 
 body {
   background-image: url("https://us.123rf.com/450wm/nikol85/nikol851811/nikol85181100043/113263496-light-green-matte-background-of-suede-fabric-closeup-velvet-texture-of-seamless-olive-woolen-felt-.jpg?ver=6");
-  background-size: 50%;
+  background-size: 100%;
 }
 
 .container {
@@ -22,6 +22,10 @@ body {
   padding: 24px;
 }
 
+.col-sm-4 {
+  padding: 24px;
+}
+
 .centered {
   text-align: center;
 }
@@ -35,7 +39,7 @@ figure {
   padding-left: 10%;
 }
 
-#headshot, #lumiere, #newYork {
+#headshot, #lumiere, #newYork, .cards {
   width: 80%;
   display: block;
   margin-left: auto;
@@ -51,4 +55,13 @@ figure {
 
 .long {
   width: 90%;
+}
+
+@media screen and (min-width: 576px) {
+  body {
+    background-size: 50%;
+  }
+  .container {
+    background-size: 50%;
+  }
 }
