@@ -6,7 +6,7 @@ This project has three pages: an "About Me" page, "Portfolio" page, and a "Conta
 
 The "About Me" page has several photos and brief descriptions about myself and my work ethic.
 
-The "Portfolio" page has several descriptions of real projects I've built or am working on, though only the button linking to my Scratch game works, due to not knowing how to start a download or set a bookmark.
+The "Portfolio" page has a description of the Scratch game I worked on for class.
 
 The "Contact Me" page has a form to input a name, an email, and a message to be sent to me, though this doesn't function yet. This page also includes a link to my facebook profile.
 
